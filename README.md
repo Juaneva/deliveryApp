@@ -1,5 +1,8 @@
 # deliveryApp
 
-I am looking for errors in my code and will make those changes and commit them here.
+I have changed 2 variable names as these were not descriptive enough.
+
+driverLocation - This had to be changed to locationOfDriver as this is more clear and descriptive 
+pricePerPizza - This had to be changed to pizzaOrdered because this is more clear for the user to read or other code reviewers to understand
   
 I will commit these changes here.
